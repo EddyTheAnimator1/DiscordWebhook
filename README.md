@@ -15,6 +15,8 @@ This contains. WebhookDelete,WebhookSend,WebhookAvatarChange (Name and Picture)
 
 # Settings up.
 
+YOU GOTTA HAVE PYTHON.
+
 1. pip install requests
 2. Download the scripts
 3. Edit them and use your brain to literally configure them.
