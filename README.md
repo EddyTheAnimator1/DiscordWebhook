@@ -22,6 +22,3 @@ YOU GOTTA HAVE PYTHON.
 3. Edit them and use your brain to literally configure them.
 
 # Yay your done.
-
-# STATUS RIGHT NOW.
-Offline. Still setting up files.
