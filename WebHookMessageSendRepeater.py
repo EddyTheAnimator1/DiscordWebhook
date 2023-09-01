@@ -1,5 +1,7 @@
 # Remove the # on Time and interval_seconds if you want to wait a little before sending another message
 
+# Also The reason for inport random is because of raid protection. So lets say your message is 'Hi' then it will add 'Hi (RandomNumbersAndStringsHere)'
+
 import requests
 import random
 import string
