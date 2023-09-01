@@ -10,5 +10,5 @@ def delete_webhook(webhook_url):
         print(response.text)
 
 if __name__ == "__main__":
-    webhook_url = "https://discord.com/api/webhooks/1147182229013930116/jDv7yb04ZlMSki4jEwghnKS6gDYikG8B6SDawYtlJR4r4GdtFxKVj9EVeFAOu-aWtgCf"
+    webhook_url = "YOUR_WEBHOOK_URL_HERE"
     delete_webhook(webhook_url)
