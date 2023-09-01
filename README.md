@@ -13,7 +13,7 @@ These are webhook python things you can use to mess with webhooks. This is educa
 
 This contains. WebhookDelete,WebhookSend,WebhookAvatarChange (Name and Picture)
 
-# Settings up.
+# Requirements.
 
 YOU GOTTA HAVE PYTHON.
 
