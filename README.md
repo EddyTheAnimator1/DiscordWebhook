@@ -5,7 +5,7 @@ Hi there. The names E-DAKWJHDWAUIDJHAWIDJAW
 
 # info
 
-This are webhook things you can use to mess with webhooks. This is educational and can be used to abuse stupid goofy ahh hackers.
+These are webhook python things you can use to mess with webhooks. This is educational and can be used to abuse stupid goofy ahh hackers.
 
 * side note: this was made with chatgpt. BECAUSE I AINT NO CODER.
 
