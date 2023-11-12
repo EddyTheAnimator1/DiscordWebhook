@@ -22,3 +22,5 @@ YOU GOTTA HAVE PYTHON.
 3. Edit the scripts to your liking.
 
 # Yay your done.
+
+AND MAKE SURE TO EDIT THE WEBHOOK URLS AND STUF.
